@@ -1,7 +1,7 @@
 # Change these first
-owner: KristianBQA 
+owner: shelwong
 repo: benqservers 
-user-agent: KristianBQA 
+user-agent: shelwong 
 sites:
   - name: BenQ AMS
     url: https://ams.benq.com/#/
