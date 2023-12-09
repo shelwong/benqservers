@@ -20,7 +20,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   
   baseUrl: /benqservers
-  logoUrl: /benqservers/assets/BenQ Education logo White on teal.jpg
+  logoUrl: /benqservers/assets/BenQ_Education_logo_White_on_teal.jpg
   name: BenQ Servers North America
   introTitle: BenQ North America
   introMessage: See the status of the BenQ servers in North America
