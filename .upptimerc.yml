@@ -27,7 +27,7 @@ status-website:
   
   navbar:
     - title: Status
-      href: /
+      href: https://shelwong.github.io/benqservers/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   
