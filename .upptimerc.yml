@@ -27,9 +27,11 @@ status-website:
   
   navbar:
     - title: Status
-      href: https://shelwong.github.io/benqservers/
+      href: /#/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - test: TestSite
+      href: https://shelwong.github.io/MyWebsite/index.html
   
 
 # Upptime also supports notifications, assigning issues, and more
