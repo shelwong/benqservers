@@ -30,7 +30,7 @@ status-website:
       href: /#/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-    - test: TestSite
+    - title: TestSite
       href: https://shelwong.github.io/MyWebsite/index.html
   
 
