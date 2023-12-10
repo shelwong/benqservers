@@ -26,7 +26,7 @@ status-website:
   introMessage: See the status of the BenQ servers in North America
   
   navbar:
-    - title: StatusT
+    - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
