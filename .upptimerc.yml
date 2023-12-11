@@ -17,7 +17,8 @@ sites:
   - name: SheldonTest
     url: https://shelwong.github.io/MyWebsite/index.html
 
-assignees: SheldonWong
+assignees: 
+  - SheldonWong
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
