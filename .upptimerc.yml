@@ -25,6 +25,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   favicon: https://github.com/shelwong/benqservers/blob/master/assets/favicon.ico
+  css: "title {color: #00707A} 
   
   baseUrl: /benqservers
   #logoUrl: https://dms.benq.com/client/dms_logo.svg
