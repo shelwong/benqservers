@@ -16,7 +16,7 @@ sites:
     url: https://service-portal.benq.com/login
   - name: SheldonTest
     url: https://shelwong.github.io/MyWebsite/index.html
-    icon: https://github.com/shelwong/benqservers/blob/ef6d66d8890e1fe805cd3c72a163b4737b76eb04/assets/BenQEducationLogoSmall.png
+    icon: https://github.com/shelwong/benqservers/blob/master/assets/BenQEducationLogoSmall.png
 
 assignees: 
   - sheldon.wong@benq.com
@@ -27,7 +27,7 @@ status-website:
   
   baseUrl: /benqservers
   #logoUrl: https://dms.benq.com/client/dms_logo.svg
-  logoUrl: https://github.com/shelwong/benqservers/blob/ef6d66d8890e1fe805cd3c72a163b4737b76eb04/assets/BenQEducationLogoSmall.png
+  logoUrl: https://github.com/shelwong/benqservers/master/assets/BenQEducationLogoSmall.png
   name: BenQ Servers North America
   introTitle: BenQ North America
   introMessage: See the status of the BenQ servers in North America
@@ -35,6 +35,8 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: Support Ticket
+      href: https://www.benq.com/en-us/support/contact-us.html
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: TestSite
