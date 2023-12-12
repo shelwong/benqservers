@@ -19,7 +19,7 @@ sites:
     icon: https://github.com/shelwong/benqservers/blob/fba3b346c60d08fc9433e6bf9d40cb41a0f5cbce/assets/BenQEducationLogoSmall.png
 
 assignees: 
-  - sheldon.wong@benq.com
+  - shelwong
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
