@@ -24,15 +24,14 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  favicon: https://github.com/shelwong/benqservers/blob/master/assets/favicon.ico
-  css: "title {color: #00707A} 
+  #favicon: https://github.com/shelwong/benqservers/blob/master/assets/favicon.ico
   
   baseUrl: /benqservers
   #logoUrl: https://dms.benq.com/client/dms_logo.svg
   logoUrl: https://raw.githubusercontent.com/shelwong/benqservers/master/assets/BenQEducationLogoSmall.png
   name: BenQ Servers North America
   introTitle: BenQ North America
-  introMessage: See the status of the BenQ servers in North America
+  introMessage: See the status of the BenQ servers in North AmericaT
   
   navbar:
     - title: Status
