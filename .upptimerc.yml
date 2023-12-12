@@ -16,7 +16,6 @@ sites:
     url: https://service-portal.benq.com/login
   - name: SheldonTest
     url: https://shelwong.github.io/MyWebsite/
-    icon: https://github.com/shelwong/benqservers/blob/fba3b346c60d08fc9433e6bf9d40cb41a0f5cbce/assets/BenQEducationLogoSmall.png
 
 assignees: 
   - shelwong
@@ -24,14 +23,13 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #favicon: https://github.com/shelwong/benqservers/blob/master/assets/favicon.ico
+  favicon: https://raw.githubusercontent.com/shelwong/benqservers/master/assets/favicon.ico
   
   baseUrl: /benqservers
-  #logoUrl: https://dms.benq.com/client/dms_logo.svg
   logoUrl: https://raw.githubusercontent.com/shelwong/benqservers/master/assets/BenQEducationLogoSmall.png
   name: BenQ Servers North America
-  introTitle: BenQ North America
-  introMessage: See the status of the BenQ servers in North AmericaT
+  introTitle: **BenQ** North America
+  introMessage: See the status of the BenQ servers in North America
   
   navbar:
     - title: Status
