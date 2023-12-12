@@ -94,19 +94,19 @@
     "url": "https://shelwong.github.io/MyWebsite/index.html",
     "icon": "https://github.com/shelwong/benqservers/blob/master/assets/BenQEducationLogoSmall.png",
     "slug": "sheldon-test",
-    "status": "down",
-    "uptime": "73.56%",
-    "uptimeDay": "73.56%",
-    "uptimeWeek": "73.56%",
-    "uptimeMonth": "73.56%",
-    "uptimeYear": "73.56%",
+    "status": "up",
+    "uptime": "71.97%",
+    "uptimeDay": "71.97%",
+    "uptimeWeek": "71.97%",
+    "uptimeMonth": "71.97%",
+    "uptimeYear": "71.97%",
     "time": 94,
     "timeDay": 94,
     "timeWeek": 94,
     "timeMonth": 94,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2023-12-12": 85,
+      "2023-12-12": 112,
       "2023-12-11": 238
     }
   }
