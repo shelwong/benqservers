@@ -16,6 +16,7 @@ sites:
     url: https://service-portal.benq.com/login
   - name: SheldonTest
     url: https://shelwong.github.io/MyWebsite/index.html
+    icon: https://github.com/shelwong/benqservers/blob/41ca50c25b8a026a8740bf0e259227731820c36c/assets/BenQEducationLogo.png
 
 assignees: 
   - sheldon.wong@benq.com
