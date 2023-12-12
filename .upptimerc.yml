@@ -26,7 +26,7 @@ status-website:
   
   baseUrl: /benqservers
   #logoUrl: https://dms.benq.com/client/dms_logo.svg
-  logoUrl: https://github.com/shelwong/benqservers/blob/746aecc15e715a905a0fde9e8c3fd218a52cc196/assets/BenQEducationLogo.jpg
+  logoUrl: https://github.com/shelwong/benqservers/blob/746aecc15e715a905a0fde9e8c3fd218a52cc196/assets/BenQEducationLogo.png
   name: BenQ Servers North America
   introTitle: BenQ North America
   introMessage: See the status of the BenQ servers in North America
