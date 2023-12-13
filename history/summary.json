@@ -95,18 +95,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/shelwong.github.io.ico",
     "slug": "sheldon-test",
     "status": "down",
-    "uptime": "61.08%",
-    "uptimeDay": "69.61%",
-    "uptimeWeek": "61.08%",
-    "uptimeMonth": "61.08%",
-    "uptimeYear": "61.08%",
+    "uptime": "58.19%",
+    "uptimeDay": "64.04%",
+    "uptimeWeek": "58.19%",
+    "uptimeMonth": "58.19%",
+    "uptimeYear": "58.19%",
     "time": 81,
-    "timeDay": 87,
+    "timeDay": 84,
     "timeWeek": 81,
     "timeMonth": 81,
     "timeYear": 81,
     "dailyMinutesDown": {
-      "2023-12-12": 432,
+      "2023-12-13": 40,
+      "2023-12-12": 478,
       "2023-12-11": 238
     }
   }
