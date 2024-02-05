@@ -40,9 +40,9 @@
     "url": "https://dms.benq.com/#/",
     "icon": "https://dms.benq.com/client/dms_logo.svg",
     "slug": "ben-q-dms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
@@ -52,6 +52,7 @@
     "timeMonth": 466,
     "timeYear": 460,
     "dailyMinutesDown": {
+      "2024-02-05": 0,
       "2024-01-12": 25
     }
   },
@@ -97,11 +98,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/shelwong.github.io.ico",
     "slug": "sheldon-test",
     "status": "up",
-    "uptime": "98.12%",
+    "uptime": "98.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.12%",
+    "uptimeYear": "98.14%",
     "time": 74,
     "timeDay": 48,
     "timeWeek": 39,
