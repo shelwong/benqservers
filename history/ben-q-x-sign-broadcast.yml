@@ -1,7 +1,7 @@
 url: https://x-signbroadcast.benq.com/
-status: up
-code: 200
-responseTime: 820
-lastUpdated: 2024-03-08T23:34:13.082Z
+status: down
+code: 500
+responseTime: 491
+lastUpdated: 2024-03-09T02:16:48.969Z
 startTime: 2023-12-09T04:28:13.224Z
 generator: Upptime <https://github.com/upptime/upptime>
