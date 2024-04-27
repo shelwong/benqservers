@@ -22,18 +22,20 @@
     "url": "https://iam.benq.com/",
     "icon": "https://icons.duckduckgo.com/ip3/iam.benq.com.ico",
     "slug": "ben-q-iam",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 699,
-    "timeDay": 638,
-    "timeWeek": 669,
-    "timeMonth": 793,
-    "timeYear": 699,
-    "dailyMinutesDown": {}
+    "time": 705,
+    "timeDay": 1252,
+    "timeWeek": 818,
+    "timeMonth": 827,
+    "timeYear": 705,
+    "dailyMinutesDown": {
+      "2024-04-27": 0
+    }
   },
   {
     "name": "BenQ DMS",
