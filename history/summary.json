@@ -4,9 +4,9 @@
     "url": "https://ams.benq.com/#/",
     "icon": "https://icons.duckduckgo.com/ip3/ams.benq.com.ico",
     "slug": "ben-q-ams",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 520,
     "timeMonth": 488,
     "timeYear": 491,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-09": 0
+    }
   },
   {
     "name": "BenQ IAM",
@@ -23,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/iam.benq.com.ico",
     "slug": "ben-q-iam",
     "status": "up",
-    "uptime": "94.05%",
+    "uptime": "94.07%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "42.09%",
+    "uptimeWeek": "48.32%",
     "uptimeMonth": "70.32%",
-    "uptimeYear": "94.05%",
+    "uptimeYear": "94.07%",
     "time": 709,
     "timeDay": 1511,
     "timeWeek": 939,
